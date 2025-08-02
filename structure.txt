@@ -1,0 +1,23 @@
+.
+├── AI-Augmented-UNIX-Kernel
+│   ├── README_INTEGRATION.md
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── setup.sh
+│   ├── shell_ai
+│   │   ├── assistant.py
+│   │   ├── code_assistant.py
+│   │   ├── command_executor.py
+│   │   ├── config.py
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── prompts.py
+│   │   └── system_info.py
+│   └── shell_integration
+│       └── shell_ai_functions.sh
+├── coder.py
+├── structure.txt
+├── summarizer.py
+└── test_integration.py
+
+3 directories, 17 files
